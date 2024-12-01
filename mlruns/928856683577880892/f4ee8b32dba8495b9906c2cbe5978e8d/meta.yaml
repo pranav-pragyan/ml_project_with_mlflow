@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/928856683577880892/f4ee8b32dba8495b9906c2cbe5978e8d/artifacts
+deleted_time: 1733080598572
+end_time: 1733080436556
+entry_point_name: ''
+experiment_id: '928856683577880892'
+lifecycle_stage: deleted
+run_id: f4ee8b32dba8495b9906c2cbe5978e8d
+run_name: polite-crab-393
+run_uuid: f4ee8b32dba8495b9906c2cbe5978e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733080436530
+status: 4
+tags: []
+user_id: pranav
